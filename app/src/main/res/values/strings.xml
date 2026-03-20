@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MP3 Плеер</string>
+    <string name="back">Назад</string>
+    <string name="album_art">Обложка альбома</string>
+    <string name="select_song">Выберите песню</string>
+    <string name="artist">Исполнитель</string>
+</resources>
